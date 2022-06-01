@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bushihehudo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Christian
+- 👀 I’m interested in Karate and bodyweight training
+- 🌱 I’m currently learning english
+
+
 
 <!---
 bushihehudo/bushihehudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
